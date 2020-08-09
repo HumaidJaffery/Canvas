@@ -1,1 +1,1 @@
-var hi = ''
+var testing = 'true'
